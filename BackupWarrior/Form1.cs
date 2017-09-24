@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace BackupWarrior
 {
-    public partial class Form1 : Form
+    public partial class BackupWarriorForm : Form
     {
-        public Form1()
+        public BackupWarriorForm()
         {
             InitializeComponent();
         }
